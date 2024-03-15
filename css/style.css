@@ -17,3 +17,9 @@ div[class^="col"]{
 .green{
     background-color: #addcae;
 }
+
+/* end of first gridy */
+
+#box2{
+    height: 15%;
+}
