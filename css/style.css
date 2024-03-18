@@ -1,4 +1,4 @@
-div[class^="col"]{
+#grid1 div[class^="col"]{
     border: 4px solid black;
     min-height: 275px;
 }
@@ -20,6 +20,15 @@ div[class^="col"]{
 
 /* end of first gridy */
 
+#grid2 div[class^='col']{
+    background-color: #92ad82;
+    border: 3px solid white;
+    min-height: 75px;
+}
+
 #box2{
     height: 15%;
+}
+#box3 {
+    height: 85%;
 }
